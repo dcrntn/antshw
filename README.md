@@ -27,7 +27,7 @@ In this example the compiled filename is "ants".
 
 ## Output
 The program will generate a "ants_log.txt" file that logs the following:
-- Program parameterss
+- Program parameters
 - Start population with each ant's genes
 - Next generation populations with generation number, ants' genes, mutated genes
 - The reason for the program to end.
