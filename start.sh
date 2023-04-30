@@ -4,7 +4,7 @@
 # Make the application executable if needed
 #chmod +x ants
 
-# Run the application (linux)
+# Run the application
 ./ants
 
 # Gives some help for the application
