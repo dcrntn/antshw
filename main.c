@@ -344,7 +344,7 @@ void next_gen_pop(struct Ant arr_1[], struct Ant arr_2[])
     // Get the point where the genes are sliced.
     int rand_slice_point = random_num_gen(1, MAX_GENES - 1);
 
-    short is_gene_mutated = 0;
+   
     if(gfp != NULL)
     {
         fprintf(gfp,"===========================\n");
